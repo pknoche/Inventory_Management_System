@@ -20,5 +20,33 @@ This Inventory Management System is a Java application that enables users to man
   - **Abstraction**: Abstracts complex operations into simple interface methods, hiding the implementation details and simplifying the system's interaction model for both users and developers.
 - **JavaFX for UI**: Utilizes JavaFX to build a user-friendly graphical user interface.
 - **Model-View-Controller (MVC) Architecture**: Adheres to the MVC design pattern to separate the application logic from the UI.
-- **Exception Handling**: Incorporates thorough exception handling to manage runtime errors and provide user feedback.
+- **Exception Handling**: Incorporates exception handling to manage runtime errors and provide user feedback.
 - **JavaDocs Documentation**: Utilizes JavaDocs to thoroughly document the codebase, ensuring clarity and ease of maintenance with detailed class and method descriptions accessible through generated HTML pages.
+
+## Screenshots
+
+<p align="center">
+    <img src="screenshots/main_menu.png" alt="Main Menu Screenshot">
+    <br><b>Figure 1.</b> Main Menu
+</p>
+
+---
+
+<p align="center">
+    <img src="screenshots/add_part.png" alt="Add Part Form Screenshot">
+    <br><b>Figure 2.</b> Add Part Form
+</p>
+
+---
+
+<p align="center">
+    <img src="screenshots/add_product.png" alt="Add Product Form Screenshot">
+    <br><b>Figure 3.</b> Add Product Form
+</p>
+
+---
+
+<p align="center">
+    <img src="screenshots/search.png" alt="Search Functionality Screenshot">
+    <br><b>Figure 4.</b> Search Functionality
+</p>
